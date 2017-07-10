@@ -1,1 +1,2 @@
 # valley
+how to install
